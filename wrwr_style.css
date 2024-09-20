@@ -1,0 +1,82 @@
+body {
+    background-color: rgba(16, 16, 16, 0.471);
+    width: auto;
+    height: auto;
+}
+.box2 {
+    width: 70px;
+    height: 50px;
+    margin: 4px;
+    border-radius: 60px;
+    display: flex;
+    justify-content: center;
+}
+ 
+section {
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    width: 1420px;
+}
+ 
+.wrwr_top_center {
+    margin: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 70px;
+    color: rgb(255, 255, 255);
+}
+ 
+.wrwr_top_right {
+    width: 90px;
+    height: 40px;
+    margin: 4px;
+    border-radius: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+ 
+.box3 {
+    width: 80px;
+    height: 50px;
+    margin: 4px;
+    border-radius: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+.tophoto {
+    display: flex;
+    justify-content: center;
+    margin: 70px;
+    width: auto;
+    height: auto;
+}
+
+.under-totoro {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.under {
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+.all-pic{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    gap: 15px;
+}
+
+.picpic img{
+    width: 200px;
+    height: auto;
+}
